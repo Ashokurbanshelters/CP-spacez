@@ -303,7 +303,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 
 // Get unique projects for dropdown (includes new projects)
-$defaultProjects = ['Platinum Landmark', 'Platinum Green Fields', 'Suraksha Sunrise Park', 'Urban Tranquil'];
+$defaultProjects = ['Platinum Landmark', 'Platinum Green Fields', 'Suraksha Sunrise Park', 'Urban Tranquil', 'Sri Nandana Paradise', 'PANCHAJANYAA'];
 $uniqueProjects = array_unique(array_merge($defaultProjects, array_column($leads, 'project')));
 sort($uniqueProjects);
 ?>
@@ -1015,7 +1015,18 @@ sort($uniqueProjects);
                 document.getElementById('lead_phone').value = lead.phone.replace('+91', '');
                 document.getElementById('lead_email').value = lead.email || '';
                 document.getElementById('lead_spouse_phone').value = lead.spouse_phone ? lead.spouse_phone.replace('+91', '') : '';
-                document.getElementById('lead_project').value = lead.project;
+                const projectSelect = document.getElementById('lead_project');
+                if (projectSelect) {
+                    projectSelect.value = lead.project;
+                    if (!projectSelect.value && lead.project) {
+                        for (let i = 0; i < projectSelect.options.length; i++) {
+                            if (projectSelect.options[i].value.toLowerCase() === lead.project.toLowerCase()) {
+                                projectSelect.selectedIndex = i;
+                                break;
+                            }
+                        }
+                    }
+                }
                 document.getElementById('lead_channel_partner').value = lead.channel_partner_id;
                 document.getElementById('lead_status').value = lead.status;
                 document.getElementById('lead_remarks').value = lead.remarks || '';
@@ -1163,7 +1174,7 @@ sort($uniqueProjects);
             
             rows.forEach(row => {
                 const rowProject = row.getAttribute('data-project');
-                row.style.display = !project || rowProject === project ? '' : 'none';
+                row.style.display = !project || (rowProject && rowProject.toLowerCase() === project.toLowerCase()) ? '' : 'none';
             });
         });
 

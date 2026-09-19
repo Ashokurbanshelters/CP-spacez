@@ -21,7 +21,9 @@ $projects = [
     'Platinum Landmark',
     'Platinum Green Fields',
     'Suraksha Sunrise Park',
-    'Urban Tranquil'
+    'Urban Tranquil',
+    'Sri Nandana Paradise',
+    'PANCHAJANYAA'
 ];
 ?>
 <!DOCTYPE html>
