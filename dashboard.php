@@ -45,7 +45,7 @@ if (!empty($filters['status'])) {
 }
 if (!empty($filters['project'])) {
     $filteredLeads = array_filter($filteredLeads, function($lead) use ($filters) {
-        return $lead['project'] === $filters['project'];
+        return strcasecmp($lead['project'], $filters['project']) === 0;
     });
 }
 if (!empty($filters['channel_partner'])) {
@@ -114,8 +114,9 @@ foreach ($leads as $lead) {
 }
 arsort($projectStats);
 
-// Get unique projects for filter dropdown
- $uniqueProjects = array_unique(array_column($leads, 'project'));
+// Get unique projects for filter dropdown (includes new projects)
+$defaultProjects = ['Platinum Landmark', 'Platinum Green Fields', 'Suraksha Sunrise Park', 'Urban Tranquil', 'Sri Nandana Paradise', 'PANCHAJANYAA'];
+$uniqueProjects = array_unique(array_merge($defaultProjects, array_column($leads, 'project')));
 sort($uniqueProjects);
 
 // Get unique assigned_to for filter dropdown
@@ -306,7 +307,7 @@ sort($uniqueAssignees);
                                 <select name="project" class="w-full border border-gray-300 rounded-md px-3 py-2 focus:border-blue-500 focus:outline-none">
                                     <option value="">All Projects</option>
                                     <?php foreach($uniqueProjects as $project): ?>
-                                    <option value="<?php echo htmlspecialchars($project); ?>" <?php echo $filters['project'] === $project ? 'selected' : ''; ?>>
+                                    <option value="<?php echo htmlspecialchars($project); ?>" <?php echo strcasecmp($filters['project'], $project) === 0 ? 'selected' : ''; ?>>
                                         <?php echo htmlspecialchars($project); ?>
                                     </option>
                                     <?php endforeach; ?>
@@ -630,7 +631,7 @@ sort($uniqueAssignees);
                             stepSize: 1,
                             precision: 0
                         },
-                        max: Math.max(...Object.values(projectData)) + 2
+                        max: Object.values(projectData).length > 0 ? Math.max(...Object.values(projectData)) + 2 : 10
                     },
                     x: {
                         ticks: {
