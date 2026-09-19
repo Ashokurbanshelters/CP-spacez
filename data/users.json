@@ -1,0 +1,72 @@
+[
+    {
+        "id": "USR20251015102248231",
+        "username": "Ashok.2025",
+        "password": "$2y$10$0YFBNNzvDuDFG5HXI6VHSe40ZPaYHbnBXzgKORBKyrZzGtFDqMzm6",
+        "name": "Ashok",
+        "email": "ashokdagdi.321@gmail.com",
+        "role": "admin",
+        "created_at": "2025-10-15 10:22:48",
+        "last_login": "2026-09-03 11:25:11"
+    },
+    {
+        "id": "USR20251015114654419",
+        "username": "Ashok.2026",
+        "password": "$2y$10$cSAQGZlYuKhuqQl0QzrB7.WbHWiB1T.8o6qe5kqYx6PFnyoixvNAa",
+        "name": "Ashok",
+        "email": "playboym557@gmail.com",
+        "role": "sales",
+        "created_at": "2025-10-15 11:46:54",
+        "last_login": "2026-07-22 12:15:03"
+    },
+    {
+        "id": "USR20251030064906884",
+        "username": "Shivu",
+        "password": "$2y$10$kr1zadpEeFt4srp4dKxz1ef2ZrzGMRWdKQGxOwxNzQb0YwR6RTno.",
+        "name": "Shivakumar",
+        "email": "shivakumarcool28@gmail.com",
+        "role": "manager",
+        "created_at": "2025-10-30 06:49:06",
+        "last_login": "2026-09-19 09:39:46"
+    },
+    {
+        "id": "USR20251103113024109",
+        "username": "Bharath",
+        "password": "$2y$10$ur.qIbCX9SirSmEGYrbY2OPVuVuuAUcpXvoLJsU53m\/SvEE47o4OW",
+        "name": "Bharath",
+        "email": "bharathpearls24@gmail.com",
+        "role": "manager",
+        "created_at": "2025-11-03 11:30:24",
+        "last_login": "2026-07-06 18:35:56"
+    },
+    {
+        "id": "USR20260721151047415",
+        "username": "Nabeela.SpaceZ",
+        "password": "$2y$10$KHugpihRMDQbzkRgzlYD2uqkLgXA0TIAv22g6cYegtmA2vEbAuUUO",
+        "name": "Nabeela",
+        "email": "gm@spacez.in",
+        "role": "admin",
+        "created_at": "2026-07-21 15:10:47",
+        "last_login": "2026-08-19 14:39:42"
+    },
+    {
+        "id": "USR20260801123021458",
+        "username": "Naveen.SpaceZ",
+        "password": "$2y$10$qcUg0n3NZbFpzNdCJm6uL.cRwSV0tX2jB\/gRzDd2rb1Dzpsbtv.gy",
+        "name": "Naveen",
+        "email": "Naveen1.spacez@gmail.com",
+        "role": "manager",
+        "created_at": "2026-08-01 12:30:21",
+        "last_login": "2026-08-07 14:43:37"
+    },
+    {
+        "id": "USR20260831174419226",
+        "username": "Nagaraju",
+        "password": "$2y$10$uqMaT2RADmBXBA38ZJtJYej3vO\/\/p2pLdhqRW2xC2cHB8wloy9.7O",
+        "name": "Najaraju",
+        "email": "nagraj.spacez@gmail.com",
+        "role": "manager",
+        "created_at": "2026-08-31 17:44:20",
+        "last_login": null
+    }
+]

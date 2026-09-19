@@ -1,0 +1,453 @@
+[
+    {
+        "id": "CP2025103101",
+        "firm_name": "Cloudhaven Homes",
+        "cp_name": "Kavish D Puthran",
+        "mobile": "+918431539086",
+        "email": "cloudhavenhomes@gmail.com",
+        "rera": "",
+        "created_at": "2025-10-31 06:36:49"
+    },
+    {
+        "id": "CP2025110101",
+        "firm_name": "Shopperty",
+        "cp_name": "Gunjan Kumar ",
+        "mobile": "+919546017614",
+        "email": "gunjanupadhyay6022@gmail.com",
+        "rera": "PRM\/KA\/RERA\/1251\/310\/AG\/230228\/003465",
+        "created_at": "2025-11-01 07:56:08"
+    },
+    {
+        "id": "CP2025110401",
+        "firm_name": "Conference properties ",
+        "cp_name": "Sv Amara narayana swamy ",
+        "mobile": "+919972278935",
+        "email": "Amar4578@gmail.com",
+        "rera": "",
+        "created_at": "2025-11-04 08:57:09"
+    },
+    {
+        "id": "CP2025111201",
+        "firm_name": "Hilivinghomes ",
+        "cp_name": "Srinath ",
+        "mobile": "+918088676284",
+        "email": "srinath@hilivinghomes.com",
+        "rera": "PRM\/KA\/RERA\/1251\/310\/AG\/210807\/002470",
+        "created_at": "2025-11-12 07:23:00"
+    },
+    {
+        "id": "CP2025111401",
+        "firm_name": "Mehul",
+        "cp_name": "Apnaswarg ",
+        "mobile": "+918147203771",
+        "email": "apnaswarg@gmail.com",
+        "rera": "",
+        "created_at": "2025-11-14 12:04:43"
+    },
+    {
+        "id": "CP2025111801",
+        "firm_name": "Everest realty",
+        "cp_name": "Fuzail",
+        "mobile": "+919742204892",
+        "email": "mohdfuzz96@gmail.com",
+        "rera": "ACK\/KA\/RERA\/1251\/446\/AG\/250129\/005834",
+        "created_at": "2025-11-18 06:07:36"
+    },
+    {
+        "id": "CP2025120701",
+        "firm_name": "The Falcon Group ",
+        "cp_name": "Bindusagar BS",
+        "mobile": "+919742768192",
+        "email": "thefalcongroups32@gmail.com",
+        "rera": "Prmkaarera1251446AG230816003998",
+        "created_at": "2025-12-07 07:06:13"
+    },
+    {
+        "id": "CP2025121701",
+        "firm_name": "Shilpa ",
+        "cp_name": "NS Realty ",
+        "mobile": "+919901723694",
+        "email": "shilpa@nsrealty.co.in",
+        "rera": "PMR\/KA\/RERA\/1251\/310\/AG\/240228\/004562",
+        "created_at": "2025-12-17 07:14:02"
+    },
+    {
+        "id": "CP2025121702",
+        "firm_name": "Nobroker ",
+        "cp_name": "Sourav ",
+        "mobile": "+917795757161",
+        "email": "sourav.singh@nobroker.in",
+        "rera": "PRM\/KA\/RERA\/1251\/446\/AG\/210218\/002254",
+        "created_at": "2025-12-17 18:57:35"
+    },
+    {
+        "id": "CP2025122001",
+        "firm_name": "ZBR Private Limited",
+        "cp_name": "Shachindra Shettigar Barkur",
+        "mobile": "+919900096456",
+        "email": "shachindra@zerobrokeragerealty.com",
+        "rera": "PRM\/KA\/RERA\/1251\/310\/AG\/220203\/002769",
+        "created_at": "2025-12-20 06:23:55"
+    },
+    {
+        "id": "CP2026010601",
+        "firm_name": "Vaishnavi (Shobha Signature Estates)",
+        "cp_name": "Kiran",
+        "mobile": "+919663254635",
+        "email": "shobhasignatureestates@gmail.com",
+        "rera": "PRM\/KA\/RERA\/1251\/310\/AG\/250213\/005494",
+        "created_at": "2026-01-06 08:52:41"
+    },
+    {
+        "id": "CP2026012201",
+        "firm_name": "Propsangam enterprises ",
+        "cp_name": "Harish",
+        "mobile": "+919972631800",
+        "email": "harishvishwakarma0730@gmail.com",
+        "rera": "",
+        "created_at": "2026-01-22 12:46:21"
+    },
+    {
+        "id": "CP2026012801",
+        "firm_name": "Capital Homz",
+        "cp_name": "Shivaraj Malimath",
+        "mobile": "+919900055518",
+        "email": "shivaraj@capitalhomz.in",
+        "rera": "PRM\/KA\/RERA\/1251\/310\/AG\/230605\/003686",
+        "created_at": "2026-01-28 06:44:38"
+    },
+    {
+        "id": "CP2026021301",
+        "firm_name": "Mohan Surya",
+        "cp_name": "Roundtree Realty",
+        "mobile": "+918861337197",
+        "email": "mohansurya@roundtreerealty.in",
+        "rera": " PRM\/KA\/RERA\/1251\/310\/AG\/230705\/003813",
+        "created_at": "2026-02-13 09:43:31"
+    },
+    {
+        "id": "CP2026022701",
+        "firm_name": "NOBROKER TECHNOLOGIES SOLUTION PVT LTD",
+        "cp_name": "SAIFULLAH K",
+        "mobile": "+918300774410",
+        "email": "SAIFULLAH.K@NOBROKER.IN",
+        "rera": "",
+        "created_at": "2026-02-27 10:13:44"
+    },
+    {
+        "id": "CP2026030601",
+        "firm_name": "Sudhir Panda",
+        "cp_name": "No broker",
+        "mobile": "+918095957139",
+        "email": "sudhir.panda@nobroker.in",
+        "rera": "PRM\/KA\/RERA\/1251\/446\/AG\/210218\/002254",
+        "created_at": "2026-03-06 12:10:10"
+    },
+    {
+        "id": "CP2026030602",
+        "firm_name": "Diwakar Mishra ",
+        "cp_name": "Nobroker.in",
+        "mobile": "+918287400720",
+        "email": "diwakar.mishra@nobroker.in",
+        "rera": "PRM\/KA\/RERA\/1251\/446\/AG\/210218\/002254",
+        "created_at": "2026-03-06 12:11:59"
+    },
+    {
+        "id": "CP2026033001",
+        "firm_name": "Zenix Elite",
+        "cp_name": "Vinay kumar B",
+        "mobile": "+918951151514",
+        "email": "zenixelite01@gmail.com",
+        "rera": "PRM\/KA\/RERA\/1251\/310\/AG\/250915\/006168",
+        "created_at": "2026-03-30 05:08:07"
+    },
+    {
+        "id": "CP2026041201",
+        "firm_name": "IQOL technologies pvt ltd",
+        "cp_name": "Canvas homes ",
+        "mobile": "+918867826568",
+        "email": "rahul@canvas-homes.com",
+        "rera": "PRM\/KA\/RERA\/1251\/310\/AG\/240423\/004736",
+        "created_at": "2026-04-12 05:22:46"
+    },
+    {
+        "id": "CP2026041801",
+        "firm_name": "Vivarsh Realty ",
+        "cp_name": "Vasanth H U",
+        "mobile": "+916361823204",
+        "email": "vasanth@vivarshrealty.com",
+        "rera": "PRM\/KA\/RERA\/1251\/310\/AG\/250523\/005781",
+        "created_at": "2026-04-18 08:32:11"
+    },
+    {
+        "id": "CP2026051501",
+        "firm_name": "Nobroker.com",
+        "cp_name": "Pratik ",
+        "mobile": "+917798951992",
+        "email": "pratik.balram@nobroker.in",
+        "rera": "",
+        "created_at": "2026-05-15 07:44:49"
+    },
+    {
+        "id": "CP2026051502",
+        "firm_name": "Nobroker Technologies solutions pvt Ltd ",
+        "cp_name": "Lokesh P",
+        "mobile": "+918792102802",
+        "email": "lokesh.p3@nobroker.in",
+        "rera": "",
+        "created_at": "2026-05-15 13:34:05"
+    },
+    {
+        "id": "CP2026052401",
+        "firm_name": "Housing yard pvt ltd ",
+        "cp_name": "Harsha virupaksha",
+        "mobile": "+919739907565",
+        "email": "harshav@housingyard.in",
+        "rera": "PRM\/KA\/RERA\/1251\/310\/AG\/230321\/003512",
+        "created_at": "2026-05-24 06:31:20"
+    },
+    {
+        "id": "CP2026053101",
+        "firm_name": "Nobroker",
+        "cp_name": "bheemambika",
+        "mobile": "+919743690791",
+        "email": "bheemambika.badiger1@nobroker.in",
+        "rera": "",
+        "created_at": "2026-05-31 04:14:14"
+    },
+    {
+        "id": "CP2026061101",
+        "firm_name": "No Broker ",
+        "cp_name": "Tabrezpasha No Broker ",
+        "mobile": "+919632983302",
+        "email": "tabrez.pasha2@nobroker.in",
+        "rera": "",
+        "created_at": "2026-06-11 05:20:21"
+    },
+    {
+        "id": "CP2026061201",
+        "firm_name": "Nobroker ",
+        "cp_name": "Mahesh",
+        "mobile": "+919187406877",
+        "email": "mahesh.3@nobroker.in",
+        "rera": "",
+        "created_at": "2026-06-12 11:07:31"
+    },
+    {
+        "id": "CP2026062401",
+        "firm_name": "Nobroker",
+        "cp_name": "Kavinraj ",
+        "mobile": "+917619338347",
+        "email": "kavinraj.p1@nobroker.in",
+        "rera": "PRM\/KA\/RERA\/1251\/446\/AG\/210218\/002254",
+        "created_at": "2026-06-24 15:01:54"
+    },
+    {
+        "id": "CP2026071401",
+        "firm_name": "Nobroker",
+        "cp_name": "Fazil",
+        "mobile": "+919048451111",
+        "email": "fazil.muhammad@nobroker.in",
+        "rera": "",
+        "created_at": "2026-07-14 14:12:46"
+    },
+    {
+        "id": "CP2026071901",
+        "firm_name": "NO BROKER",
+        "cp_name": "PARVATHI",
+        "mobile": "+918921512316",
+        "email": "parvathi.sb@nobroker.in",
+        "rera": "",
+        "created_at": "2026-07-19 06:40:10"
+    },
+    {
+        "id": "CP2026072001",
+        "firm_name": "Prajwal",
+        "cp_name": "Everest realty",
+        "mobile": "+919008245990",
+        "email": "prajwalpoojary0517@gmail.com",
+        "rera": "PRM\/KA\/RERA\/1251\/310\/AG\/260507\/007198",
+        "created_at": "2026-07-20 09:11:20"
+    },
+    {
+        "id": "CP2026072401",
+        "firm_name": "Nobroker.com",
+        "cp_name": "Pratik ",
+        "mobile": "+917798951992",
+        "email": "pratik.balram@nobroker.in",
+        "rera": "PRM\/KA\/RERA\/1251\/446\/AG\/210218\/002254",
+        "created_at": "2026-07-24 05:15:50"
+    },
+    {
+        "id": "CP2026072501",
+        "firm_name": "Modern Vibe Homes",
+        "cp_name": "Mohammed Malik bhasha",
+        "mobile": "+919741333569",
+        "email": "modernvibe.homes@gmail.com",
+        "rera": "PRM\/KA\/RERA\/1251\/310\/AG\/260507\/007195",
+        "created_at": "2026-07-25 12:18:24",
+        "updated_at": "2026-07-25 12:23:44"
+    },
+    {
+        "id": "CP2026072801",
+        "firm_name": "SR Dheeraj Kumar ",
+        "cp_name": "SR Dheeraj Kumar ",
+        "mobile": "+919686958463",
+        "email": "southpropertiesblr@gmail.com",
+        "rera": "PRM\/KA\/RERA\/1251\/310\/AG\/200803\/001938",
+        "created_at": "2026-07-28 06:41:01"
+    },
+    {
+        "id": "CP2026072901",
+        "firm_name": "Gavisiddappa",
+        "cp_name": "Gavisiddappa",
+        "mobile": "+918655758006",
+        "email": "hh.gavi@gmail.com",
+        "rera": "",
+        "created_at": "2026-07-29 15:13:11"
+    },
+    {
+        "id": "CP2026072902",
+        "firm_name": "Gavisiddappa ",
+        "cp_name": "Gavisiddappa ",
+        "mobile": "+918655758006",
+        "email": "hh.gavi@gmail.com",
+        "rera": "",
+        "created_at": "2026-07-29 09:46:43"
+    },
+    {
+        "id": "CP2026072903",
+        "firm_name": "Uday kumar",
+        "cp_name": "Uday kumar",
+        "mobile": "+919380450033",
+        "email": "uday.shin14@gmail.com",
+        "rera": "",
+        "created_at": "2026-07-29 15:40:05"
+    },
+    {
+        "id": "CP2026072904",
+        "firm_name": "Mahesh B",
+        "cp_name": "Mahesh B",
+        "mobile": "+919019503231",
+        "email": "babumahesh3991@gmail.com",
+        "rera": "",
+        "created_at": "2026-07-29 16:40:22"
+    },
+    {
+        "id": "CP2026073001",
+        "firm_name": "Shreyas",
+        "cp_name": "Shreyas",
+        "mobile": "+917090496237",
+        "email": "Shreyashm2005@gmail.com",
+        "rera": "",
+        "created_at": "2026-07-30 15:10:35"
+    },
+    {
+        "id": "CP2026080801",
+        "firm_name": "Sarvabhandu Realities",
+        "cp_name": "Manu Chandrashekar ",
+        "mobile": "+919008314645",
+        "email": "manuchandrashekar@gmail.com",
+        "rera": "PRM\/KA\/RERA\/1251\/310\/AG\/240415\/004699",
+        "created_at": "2026-08-08 04:32:07"
+    },
+    {
+        "id": "CP2026080901",
+        "firm_name": "Metro homes ",
+        "cp_name": "N RAVIKUMAR ",
+        "mobile": "+919535101610",
+        "email": "ravik01061988@gmail.com",
+        "rera": "",
+        "created_at": "2026-08-09 05:39:02"
+    },
+    {
+        "id": "CP2026081301",
+        "firm_name": "MOHAMMED SAUD (Pradeep CP)",
+        "cp_name": "MOHAMMED SAUD",
+        "mobile": "+919035627297",
+        "email": "saudisaudi7786@gmail.com",
+        "rera": "",
+        "created_at": "2026-08-13 13:14:32"
+    },
+    {
+        "id": "CP2026081302",
+        "firm_name": "Saraswathi (Gagan cp)",
+        "cp_name": "Saraswathi ",
+        "mobile": "+916360685656",
+        "email": "teamtheybdc@gmail.com",
+        "rera": "",
+        "created_at": "2026-08-13 13:16:21"
+    },
+    {
+        "id": "CP2026081303",
+        "firm_name": "ranjith reddy (Gagan cp)",
+        "cp_name": "ranjith reddy",
+        "mobile": "+917259040404",
+        "email": "Ranjithreshi@gmail.com",
+        "rera": "PRMKARERA1251310AG24090300509",
+        "created_at": "2026-08-13 13:17:36"
+    },
+    {
+        "id": "CP2026081901",
+        "firm_name": "Lingu s (Pradeep cp)",
+        "cp_name": "Lingu s (Pradeep cp)",
+        "mobile": "+918884750149",
+        "email": "lingu15homeloan@gmail.com",
+        "rera": "",
+        "created_at": "2026-08-19 14:40:30"
+    },
+    {
+        "id": "CP2026083001",
+        "firm_name": "Nobroker Technologies solutions pvt Ltd  ",
+        "cp_name": "Adarsh Arun",
+        "mobile": "+918867969095",
+        "email": "adarsh.arun@nobroker.in",
+        "rera": "",
+        "created_at": "2026-08-30 02:29:33"
+    },
+    {
+        "id": "CP2026090101",
+        "firm_name": "nobroker",
+        "cp_name": "Pavan",
+        "mobile": "+919019866867",
+        "email": "pavan.kumar3@nobroker.in",
+        "rera": "",
+        "created_at": "2026-09-01 06:27:56"
+    },
+    {
+        "id": "CP2026090601",
+        "firm_name": "Homes Bangalore ",
+        "cp_name": "Nataraja P",
+        "mobile": "+917204319888",
+        "email": "sales@homes.org.in",
+        "rera": "PRM\/KA\/RERA\/1251\/310\/AG\/250811\/005946",
+        "created_at": "2026-09-06 06:59:50"
+    },
+    {
+        "id": "CP2026090602",
+        "firm_name": "Jeevan",
+        "cp_name": "Jeevan",
+        "mobile": "+916360548191",
+        "email": "jeevanvs28@gmail.com",
+        "rera": "",
+        "created_at": "2026-09-06 13:08:19"
+    },
+    {
+        "id": "CP2026090801",
+        "firm_name": "chandan",
+        "cp_name": "chandan",
+        "mobile": "+919620247532",
+        "email": "chandrappa.d1@nobroker.in",
+        "rera": "",
+        "created_at": "2026-09-08 07:30:50"
+    },
+    {
+        "id": "CP2026091901",
+        "firm_name": "NOBROKER",
+        "cp_name": "GIRISAGAR",
+        "mobile": "+918861951612",
+        "email": "Girisagar.uh@nobroker.in",
+        "rera": "",
+        "created_at": "2026-09-19 06:57:22"
+    }
+]
